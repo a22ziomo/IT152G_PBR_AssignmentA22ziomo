@@ -19,9 +19,9 @@ MonoBehaviour:
     AfterOpaque: 0
     Source: 1
     NormalSamples: 1
-    Intensity: 0
+    Intensity: 2
     DirectLightingStrength: 0
-    Radius: 0
+    Radius: 0.2
     SampleCount: 4
 --- !u!114 &11400000
 MonoBehaviour:
@@ -73,7 +73,7 @@ MonoBehaviour:
     passOperation: 2
     failOperation: 0
     zFailOperation: 0
-  m_ShadowTransparentReceive: 0
+  m_ShadowTransparentReceive: 1
   m_RenderingMode: 0
   m_DepthPrimingMode: 1
   m_CopyDepthMode: 0
